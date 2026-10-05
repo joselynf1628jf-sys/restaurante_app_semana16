@@ -1,0 +1,34 @@
+[
+    {
+        "codigo": "J01",
+        "nombre": "Tigrillo con longaniza",
+        "precio": 3.5,
+        "categoria": "DESAYUNO",
+        "descripcion": "Plato tradicional con verde majado",
+        "stock": 8
+    },
+    {
+        "codigo": "J02",
+        "nombre": "Seco de pollo",
+        "precio": 4.5,
+        "categoria": "ALMUERZO",
+        "descripcion": "Incluye arroz y ensalada",
+        "stock": 9
+    },
+    {
+        "codigo": "J03",
+        "nombre": "Caldo de gallina",
+        "precio": 4.0,
+        "categoria": "CENA",
+        "descripcion": "Caldo casero con papa y yuca",
+        "stock": 5
+    },
+    {
+        "codigo": "J04",
+        "nombre": "Cafe con leche",
+        "precio": 1.0,
+        "categoria": "BEBIDA",
+        "descripcion": "",
+        "stock": 20
+    }
+]
